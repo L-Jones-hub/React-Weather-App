@@ -9,6 +9,7 @@ function App() {
         <a
           href="https://github.com/L-Jones-hub/React-Weather-App"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
