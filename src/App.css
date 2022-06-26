@@ -1,3 +1,13 @@
+body {
+  background-color: #2772db;
+}
+.App .title {
+  color: white;
+  text-align: right;
+}
+.App .container {
+  background-color: white;
+}
 .App {
   max-width: 600px;
   margin: 30px auto;
